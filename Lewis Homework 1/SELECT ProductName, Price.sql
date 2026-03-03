@@ -1,0 +1,2 @@
+SELECT ProductName, Price
+FROM PRODUCTS
